@@ -960,6 +960,7 @@ function(D, hook, param, lim, inc, exc, max, size, reps, inc_var, exc_var)
 
   # Main recursive function
   bk := function(c, try, ban, G, d)
+  #testing123
     local orb, top, piv, m, to_try, C, g, v;
 
     # <c> is a new clique rep
